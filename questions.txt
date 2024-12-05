@@ -12,3 +12,10 @@ C. 16
 D. 15
 Correct Answer: D
 
+Question: Which sports do I play?
+A. Hockey
+B. Football
+C. Soccer
+D. A and C
+Correct Answer: D
+
