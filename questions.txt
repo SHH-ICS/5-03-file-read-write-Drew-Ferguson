@@ -1,0 +1,6 @@
+Question: What is my favourite colour?
+A. Blue
+B. Red
+C. Yellow
+D. None of the above
+Correct Answer: B
