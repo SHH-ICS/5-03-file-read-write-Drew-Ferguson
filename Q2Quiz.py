@@ -10,9 +10,8 @@ try:
 
     for question_block in questions:
         lines = question_block.split("\n")
-        question = lines[0].replace("Question: ", "") 
-        answers = lines[1:5]  
-        correct_answer = lines[5].replace("Correct Answer: ", "").strip()
+        question = replace("Question: ", "")   
+        correct_answer = replace("Correct Answer: ", "").strip()
 
         print(f"\n{question}")
         for answer in answers:
